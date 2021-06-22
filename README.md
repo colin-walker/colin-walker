@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm Colin, a blogger and tinkerer – not a developer.
+
+Having spent a number of years on WordPress, writing some add-ins and designing a custom overly to negate the need for wp-admin, I decided to create my own CMS and [(b)log-In](https://github.com/colin-walker/blog-In) was born.
 
 <!--
 **colin-walker/colin-walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
