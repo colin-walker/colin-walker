@@ -4,6 +4,10 @@ I'm Colin, a blogger and tinkerer – not a developer.
 
 Having spent a number of years on WordPress, writing some add-ins and designing a custom overly to negate the need for wp-admin, I decided to create my own CMS and [(b)log-In](https://github.com/colin-walker/blog-In) was born.
 
+I have proposed the ['now' namespace](https://github.com/colin-walker/Now-Namespace) for RSS to share /now page style updates as part of your normal RSS feed. Comments, suggestions and discussion welcome.
+
+I'm currently working on another simple blogging platform called 'hyblog' (hybrid blog) that uses dynamic pages pulling post info from static .md files.
+
 <!--
 **colin-walker/colin-walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
