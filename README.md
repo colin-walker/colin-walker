@@ -6,7 +6,7 @@ Having spent a number of years on WordPress, writing some add-ins and designing 
 
 I have proposed the ['now' namespace](https://github.com/colin-walker/Now-Namespace) for RSS to share /now page style updates as part of your normal RSS feed. Comments, suggestions and discussion welcome.
 
-I'm also currently working on another simple blogging platform called 'hyblog' (hybrid blog) that uses dynamic pages pulling post info from static .md files.
+I'm also currently working on another simple blogging platform called '[hyblog](https://github.com/colin-walker/hyblog)' (hybrid blog) that uses dynamic pages pulling post info from static .md files.
 
 <!--
 **colin-walker/colin-walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
