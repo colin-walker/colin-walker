@@ -8,6 +8,8 @@ I have proposed the ['now' namespace](https://github.com/colin-walker/Now-Namesp
 
 I'm also currently working on another simple blogging platform called '[hyblog](https://github.com/colin-walker/hyblog)' (hybrid blog) that uses dynamic pages pulling post info from static .md files.
 
+If you find anything useful you might like to [sponsor me](https://github.com/sponsors/colin-walker) or [buy me a coffee](https://www.buymeacoffee.com/colinwalker).
+
 <!--
 **colin-walker/colin-walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
